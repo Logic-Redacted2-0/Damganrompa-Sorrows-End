@@ -494,4 +494,4 @@ Ju "I'm Justu Kotomi! Ultimate Hypnotist! Ultimate Hypnotist!"
 
 Re "A-alright then Justu. . . Im. . . Reno Bulgur. . . U-ultimate Actor. . ."
 
-'What the- Did I act out of character? Must be due to his Ultimate. . ."
+"What the- Did I act out of character? Must be due to his Ultimate. . ."

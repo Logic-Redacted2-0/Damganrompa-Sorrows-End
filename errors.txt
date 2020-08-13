@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 489: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-    "He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!''
+File "game/script.rpy", line 497: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a ' at the end of the first line.)
+    'What the- Did I act out of character? Must be due to his Ultimate. . ."
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Thu Aug 13 19:55:02 2020
+Thu Aug 13 19:55:47 2020
