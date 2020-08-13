@@ -465,3 +465,33 @@ Re "K?"
 "I entered the Kitchen to see around 10 other people here. I can recognize Raven and Kira, but the rest are new to me."
 
 z "Two more people have entered, That is 12 people in total."
+
+Re "Oh um, I’m just here for the food, so. . . you won't have to deal with me much."
+
+Ra "Be quick then."
+
+"I forgot the Edgy Emo lord was here. . . Now I have another excuse to leave, But first, cherry time"
+
+"I went to grab some cherries while everyone talked to each other, Not like they would want to talk to me anyways."
+
+"As I went to grab the cherries, Someone took the cherries right under my nose."
+
+z "Hm? Hm? Did you want the cherries? Did you want the cherries?"
+
+"Oh this guy, I remember him, But I never got his name, I should probably ask about that."
+
+Re "Yeah, I do. . . Maybe we can share-"
+
+z "I didn’t say I would give them would I?"
+
+Re "H-huh?!"
+
+"He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!''
+
+z "Mmmmm so tasty! So tasty! Anywho, Your wondering who I am right?"
+
+Ju "I'm Justu Kotomi! Ultimate Hypnotist! Ultimate Hypnotist!"
+
+Re "A-alright then Justu. . . Im. . . Reno Bulgur. . . U-ultimate Actor. . ."
+
+'What the- Did I act out of character? Must be due to his Ultimate. . ."
