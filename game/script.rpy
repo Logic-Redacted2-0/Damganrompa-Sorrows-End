@@ -440,9 +440,9 @@ Ca "Well I guess, but instead of cosplaying as anime characters we dress up as o
 
 ". . . He sure does like to talk a lot. . . I'm used to it though, he's just like my brother. . ."
 
-Reno "Ummm, Hey, I know this is random, but I have a question."
+Re "Ummm, Hey, I know this is random, but I have a question."
 
-Reno "Do you know about D-"
+Re "Do you know about D-"
 
 "Carrots quickly cut me off before I got to ask my question, I was looking forward to saying it too. . ."
 
