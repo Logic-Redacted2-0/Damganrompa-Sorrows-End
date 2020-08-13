@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("Danganronper Sorrows End")
+define config.name = _("Danganronpa Sorrows End")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -23,21 +23,20 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "1.0 - Alpha"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
-""")
+define gui.about = _p("""the pre version of the game""")
 
 
 ## A short name for the game used for executables and directories in the built
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "DanganronperSorrowsEnd"
+define build.name = "Danganronpa Sorrows End"
 
 
 ## Sounds and music ############################################################
@@ -142,7 +141,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "DanganronperSorrowsEnd-1597227161"
+define config.save_directory = "Danganronpa Sorrows End-1594029465"
 
 
 ## Icon ########################################################################
