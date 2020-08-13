@@ -1,38 +1,21 @@
-Thu Aug 13 16:36:32 2020
+Thu Aug 13 19:55:00 2020
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
  
 
-Bootstrap to the start of init.init took 0.13s
+Bootstrap to the start of init.init took 0.15s
 Early init took 0.01s
-Loader init took 0.07s
-Loading error handling took 0.06s
-Loading script took 0.28s
-Loading save slot metadata. took 0.04s
+Loader init took 0.08s
+Loading error handling took 0.13s
+Loading script took 0.78s
+Loading save slot metadata. took 0.06s
 Loading persistent took 0.00s
-Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.26s
-Loading analysis data took 0.06s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Dump and make backups. took 2.80s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.03s
+
+File "game/script.rpy", line 489: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+    "He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!''
 DPI scale factor: 1.000000
-Creating interface object took 0.32s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.04s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.11s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.04s
+Interface start took 2.56s
 
 primary display bounds: (0, 0, 1920, 1080)
 swap interval: 1 frames
@@ -279,34 +262,4 @@ Number of texture units: 8
 Using shader environment.
 Using FBO RTT.
 Root FBO is: 0
-FBO Maximum Texture Size: 2048
-Using gl renderer.
-Texture testing:
-- Hardware max texture size: 16384
-- 64px textures work.
-- 128px textures work.
-- 256px textures work.
-- 512px textures work.
-- 1024px textures work.
-- 2048px textures work.
-Root FBO is: 0
-FBO Maximum Texture Size: 2048
-controller: '3412adbe000000000000504944564944' None 0L
-controller: '3412adbe000000000000504944564944' None 0L
-Total time until interface ready: 5.8259999752s
-- Target is 5 frames in 0.333333333333 seconds.
-- Frame drawn at 0.000000 seconds.
-- Frame drawn at 0.022949 seconds.
-- Frame drawn at 0.040949 seconds.
-- Frame drawn at 0.058949 seconds.
-- Frame drawn at 0.074949 seconds.
-- 0.074949 seconds to render 5 frames.
-
-Full traceback:
-  File "game/script.rpy", line 443, in script
-    Reno "Ummm, Hey, I know this is random, but I have a question."
-  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 678, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 576, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
-Exception: Sayer 'Reno' is 
+FBO Max

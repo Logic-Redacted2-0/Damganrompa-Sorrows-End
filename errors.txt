@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 467: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
-    z "Two more people have entered, That is 12 people in total."
-    ^
+File "game/script.rpy", line 489: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+    "He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!''
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Thu Aug 13 10:50:36 2020
+Thu Aug 13 19:55:02 2020

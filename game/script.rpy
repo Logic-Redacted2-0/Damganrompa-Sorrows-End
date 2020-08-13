@@ -486,7 +486,7 @@ z "I didn’t say I would give them would I?"
 
 Re "H-huh?!"
 
-"He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!''
+"He started to eat the cherries right in front of me. What is wrong with this guy?! And who eats cherries to piss people off?!"
 
 z "Mmmmm so tasty! So tasty! Anywho, Your wondering who I am right?"
 
