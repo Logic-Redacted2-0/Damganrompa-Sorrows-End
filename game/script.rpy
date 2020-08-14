@@ -696,7 +696,7 @@ Fi "I shall introduce myself, I am  Fiona Laceray, the Ultimate influencer."
 
 "She's quick to the chase. . . I might as well follow."
 
-Re "Umm. . . Reno Bulgur, Ultimate Actor.
+Re "Umm. . . Reno Bulgur, Ultimate Actor."
 
 "This feels. . . very awkward of how formal she is. . ."
 
@@ -750,7 +750,7 @@ Ju "Yeah, that's because the ways they do hypnosis in the movies is wrong.."
 
 Ju "The round circle thingy in the movies isn’t how hypnosis is used, Its with colours, pictured, and flashes."
 
-Ju "On each picture has a different effect, like how everyone has a favourite different colour! Fun fact, mine is hot pink!
+Ju "On each picture has a different effect, like how everyone has a favourite different colour! Fun fact, mine is hot pink!"
 
 Ha "Any kind of pink is gross to me . . ."
 
@@ -935,7 +935,7 @@ Re "Umm. . . well, Hello. . ."
 
 Di "Hello! I-im D1T-T0! Though I r-r-rather be called Ditto without the numbers, And I'm the U-Ultimate Scientist, But a-also the Ultimate Program!"
 
-Ta "I found him on the floor in the middle of the hallway and when I checked to see if he had a pulse I found out he was a malfunctioning program and a big chunk of his memory was corrupted”
+Ta "I found him on the floor in the middle of the hallway and when I checked to see if he had a pulse I found out he was a malfunctioning program and a big chunk of his memory was corrupted"
 
 Ta "so I used this my ipad to enter his hard drive and broke into his system using a program I developed to brute force……"
 

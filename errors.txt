@@ -2,9 +2,64 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 681: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/script.rpy", line 699: end of line expected.
 (Perhaps you left out a " at the end of the first line.)
-    "Then why ask . . . that's just wasting breath. . .""
+    Re "Umm. . . Reno Bulgur, Ultimate Actor.""
+                                              ^
+    
+    "This feels. . . very awkward of how formal she is. . ."
+    
+    Is "How are you so formal?"
+    
+    Fi "Well, years of speaking like this, it was a part of me, so that would explain much."
+    
+    Is "I guess so?"
+    
+    Fi "By the way, May you please introduce yourself?"
+    
+    "She was looking at Hari, this. . . is gonna take a long time."
+    
+    Ha ". . . R-Reno can y-you do it f-for me . . ."
+    
+    Re "Um sure, Her name is Hari Yanio, She's the ultimate Planner, But formally known as the ultimate architect."
+    
+    Fi "What a wonderful Talent, Hari!"
+    
+    Ha "Thank you . . ."
+    
+    Fi "My pleasure."
+    
+    Fi "Oh and by the way, If you do not mind, please call me Fi instead of my real name."
+    
+    Fi "That's like me when I’m too lazy to put an O in my name."
+    
+    Is "But Fiona is already a short name"
+    
+    Re "Reno is a short name but I still have an Nickname."
+    
+    Is "So I’m the only one that doesn’t have a Nickname?"
+    
+    Re "I could call you Is, But then I'm just saying the word 'Is'"
+    
+    Ju "So are we just gonna tell our nicknames?"
+    
+    Ju "I'm called"
+    
+    "The little piece of shit the most!"
+    
+    "That would make sense. . ."
+    
+    Re "You're proud?"
+    
+    Ju "Yup! Every single person who called me it has turned into my slave with my strong hypnosis powers!"
+    
+    Ha "I highly doubt that ‘hypnosis’ is even real. . ."
+    
+    Ju "Yeah, that's because the ways they do hypnosis in the movies is wrong.."
+    
+    Ju "The round circle thingy in the movies isn’t how hypnosis is used, Its with colours, pictured, and flashes."
+    
+    Ju "On each picture has a different effect, like how everyone has a favourite different colour! Fun fact, mine is hot pink!""
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Fri Aug 14 19:46:44 2020
+Fri Aug 14 19:53:28 2020
