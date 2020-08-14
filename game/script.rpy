@@ -666,7 +666,7 @@ Ju "Ultimate planner huh. . ."
 
 Ju "That could help me a lot with my work! Wowie!"
 
-"Now he was talking normal again, that does sound a lot better. . . I don't think him sounding like a grown man suits him.""
+"Now he was talking normal again, that does sound a lot better. . . I don't think him sounding like a grown man suits him."
 
 Ha "W-Why would I h-help you a-after what y-you said!"
 
@@ -678,7 +678,7 @@ Ha "I-I’m s-still n-not helping y-you. . ."
 
 Ju "fair enough, Hypnosis is a one person job anyways"
 
-"Then why ask . . . that's just wasting breath. . .""
+"Then why ask . . . that's just wasting breath. . ."
 
 Ju "Anywho, There's a new chick for you to meet Reno! Me and your chick already talked to her, so it's now your turn to talk to her!"
 
