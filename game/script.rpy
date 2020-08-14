@@ -654,7 +654,7 @@ Re "Right! Lets go! I can't stand them anyways. . . such edge lords. . ."
 
 Ju "Well, Well? What's the blue chicks talent? What is it, What is it?"
 
-'Where does he get the energy. . ."
+"Where does he get the energy. . ."
 
 Re "Umm, Ultimate planner she said."
 
@@ -672,7 +672,7 @@ Ha "W-Why would I h-help you a-after what y-you said!"
 
 Ju "Oh, when I called you a crybaby bitch? Oops! Didn’t mean to say that in the past! I was just thinking about someone I hate, Don't worry! It's not you!"
 
-"HE CALLED HER A WHAT?!""
+"HE CALLED HER A WHAT?!"
 
 Ha "I-I’m s-still n-not helping y-you. . ."
 
@@ -734,7 +734,7 @@ Re "I could call you Is, But then I'm just saying the word 'Is'"
 
 Ju "So are we just gonna tell our nicknames?"
 
-Ju "I'm called
+Ju "I'm called"
 
 "The little piece of shit the most!"
 
@@ -851,7 +851,7 @@ Is "Who’s with who?"
 
 Fi "Since you seem to work well together, the groups should be me and Hari, then you and Reno."
 
-"Why does everyone pair us up together. . . we only just met. . . I mean, I guess I'm not compla-""
+"Why does everyone pair us up together. . . we only just met. . . I mean, I guess I'm not compla-"
 
 Fi "Now, shall we go off?"
 
@@ -943,17 +943,17 @@ Ta "so I used this my ipad to enter his hard drive and broke into his system usi
 
 Re "Ummm, so your the Ultimate Programmer or something-"
 
-Ta "and it turns out he was forced to shut down and a piece of malware was injected into his system…”
+Ta "and it turns out he was forced to shut down and a piece of malware was injected into his system…"
 
 "Did she just ignore me?"
 
 Di "Ummm. . . Tatum, He asked you a question."
 
-Ta "what?""
+Ta "what?"
 
 Re ". . . Can you. . . introduce yourself please? I think you forgot that."
 
-Ta "oh, hello I'm Tatum the ultimate developer”
+Ta "oh, hello I'm Tatum the ultimate developer"
 
 Re ". . . Reno Bulgur, Ultimate actor."
 
@@ -983,7 +983,7 @@ Is ". . ."
 
 Re "Well, We should head off, right Isy?"
 
-"Is just nodded to me, I quickly nodded back and walked out of the room.""
+"Is just nodded to me, I quickly nodded back and walked out of the room."
 
 Re ". . ."
 

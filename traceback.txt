@@ -1,22 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/script.rpy", line 443, in script
-    Reno "Ummm, Hey, I know this is random, but I have a question."
-Exception: Sayer 'Reno' is not defined.
+After loading the script.
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\RIT0002\\GitHub\\Damganrompa-Sorrows-End\\game\\saves\\navigation.json'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 443, in script
-    Reno "Ummm, Hey, I know this is random, but I have a question."
-  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 678, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 576, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
-Exception: Sayer 'Reno' is not defined.
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\bootstrap.py", line 316, in bootstrap
+    renpy.main.main()
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\main.py", line 480, in main
+    if renpy.parser.report_parse_errors():
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\parser.py", line 2929, in report_parse_errors
+    renpy.display.error.report_parse_errors(full_text, error_fn)
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\display\error.py", line 165, in report_parse_errors
+    error_dump()
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\display\error.py", line 79, in error_dump
+    renpy.dump.dump(True)
+  File "C:\Users\RIT0002\Desktop\renpy-7.3.5-sdk\renpy\dump.py", line 253, in dump
+    os.unlink(args.json_dump)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\RIT0002\\GitHub\\Damganrompa-Sorrows-End\\game\\saves\\navigation.json'
 
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
-Danganronpa Sorrows End 1.0 - Alpha
-Thu Aug 13 16:36:46 2020
+ 
+Fri Aug 14 19:43:28 2020
