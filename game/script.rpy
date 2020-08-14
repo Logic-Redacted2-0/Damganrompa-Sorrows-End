@@ -499,7 +499,7 @@ Re "A-alright then Justu. . . Im. . . Reno Bulgur. . . U-ultimate Actor. . ."
 
 "What the- Did I act out of character? Must be due to his Ultimate. . ."
 
-Ju "No no, you didn’t act like that because of my ultimate, it's because you're scared of me!’
+Ju "No no, you didn’t act like that because of my ultimate, it's because you're scared of me!’"
 
 "He smiled as if he was having the time of his life, I can't believe this guy! Wait I just noticed something-. . ."
 
@@ -1033,7 +1033,7 @@ Mi "O-o-only when I-Im focused. . ."
 
 Re "Hey, Isy, should we leave and meet back up with Hari and Fiona at the dining hall?"
 
-"She just nodded again, Something IS wrong.""
+"She just nodded again, Something IS wrong."
 
 Re "Right. . . Well, See you later!"
 
