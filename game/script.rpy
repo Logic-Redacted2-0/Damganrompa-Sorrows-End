@@ -1010,7 +1010,7 @@ z "Look! There's a new person!"
 
 z ". . . u-u-umm. . . well then. . . w-w-we should introduce ourselves r-r-right??"
 
-I "I guess . . ."
+Is "I guess . . ."
 
 Mi ". . . I-i am M-m-misuki Galaxy, T-the Ultimate Spell caster. . ."
 
