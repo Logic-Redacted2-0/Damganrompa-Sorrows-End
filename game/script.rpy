@@ -3,6 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
+
 define z = Character("???")
 define Re = Character("Reno Bulgur")
 define Is = Character("Isy Patel")
@@ -13,7 +14,7 @@ define Cy = Character("Cyan Hibit")
 define Ki = Character("Kira Yin")
 define Ch = Character("Chiharo Burny")
 define Ca = Character("Carrots Bunny")
-define D1 = Character("D1T-T0")
+define Di = Character("D1T-T0")
 define Ry = Character("Ryu Ganile")
 define Ju = Character("Justu Kotomi")
 define Ya = Character("Yasutaka Hanada")
@@ -529,7 +530,7 @@ Re "Well. . . Sorry. . . but I do have a question."
 
 z "What, answer fast."
 
-R "Who are you?"
+Re "Who are you?"
 
 z ". . ."
 
