@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1050: is not terminated with a newline. (Check strings and parenthesis.)
+File "game/script.rpy", line 964: is not terminated with a newline. (Check strings and parenthesis.)
 (Perhaps you left out a " at the end of the first line.)
-    "She's been hurt!""
+    Ta "I told you try not to delve memories until tomorrow I haven't fully repaired your indexing system and you still have some holes in your memories ”
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Fri Aug 14 19:36:04 2020
+Fri Aug 14 19:36:56 2020

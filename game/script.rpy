@@ -961,7 +961,7 @@ Di "Oh! Oh! I know you! If I remember you- OW!"
 
 "Ditto quickly held his head, he seemed to be in some kind of pain, maybe it had something to do with the corrupt file?"
 
-Ta "I told you try not to delve memories until tomorrow I haven't fully repaired your indexing system and you still have some holes in your memories ”
+Ta "I told you try not to delve memories until tomorrow I haven't fully repaired your indexing system and you still have some holes in your memories "
 
 Is ". . ."
 
