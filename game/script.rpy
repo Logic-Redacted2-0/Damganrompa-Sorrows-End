@@ -1045,9 +1045,9 @@ Fi "Oh, You have bet us to it."
 
 Re "Uhh, seems like it."
 
-"I looked at Hari, And then see-""
+"I looked at Hari, And then see-"
 
-"She's been hurt!""
+"She's been hurt!"
 
 Re "Oh my goodness are you okay?!"
 
