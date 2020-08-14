@@ -20,6 +20,9 @@ define Ya = Character("Yasutaka Hanada")
 define Fi = Character("Fiona Laceray")
 define Iw = Character("Iwa Roccu")
 define Ta = Character("Tatum Natsuko")
+
+
+
 # The game starts here.
 
 label start:
@@ -495,3 +498,571 @@ Ju "I'm Justu Kotomi! Ultimate Hypnotist! Ultimate Hypnotist!"
 Re "A-alright then Justu. . . Im. . . Reno Bulgur. . . U-ultimate Actor. . ."
 
 "What the- Did I act out of character? Must be due to his Ultimate. . ."
+
+Ju "No no, you didn’t act like that because of my ultimate, it's because you're scared of me!’
+
+"He smiled as if he was having the time of his life, I can't believe this guy! Wait I just noticed something-. . ."
+
+Re "Wait. . . did you just. . . read my mind?"
+
+Ju "No no! Reading expressions are easy! Easy to learn!"
+
+Re ". . ."
+
+"I should just leave. . . this guy might be dangerous. . ."
+
+"I left to talk to the girl who I saw beforehand. This time, she's in the corner looking at everyone like one of those lonely people in a movie."
+
+"When I got to her, She just stared at me, as if I just spat in her lunch and handed it back. . these people here are so weird. . ."
+
+z ". . . do you need something?"
+
+Re "Oh Um, not really, no."
+
+z "Then dont talk to me."
+
+Re ". . ."
+
+"Well that went well, I’ve also noticed something. She's wearing some kind of clown mask, But it's been all scratched up, I wonder what happened. . ."
+
+Re "Well. . . Sorry. . . but I do have a question."
+
+z "What, answer fast."
+
+R "Who are you?"
+
+z ". . ."
+
+Cy "Cyan Hibit, Ultimate Spy."
+
+Ju "Ooooo! Danger girl! Danger girl!"
+
+"WHAT THE- When did he get there?!"
+
+Ju "I followed you, simple, Also, these Grapes are awesome! I bet the ultimate cook or maid made these!"
+
+Re ". . . most likely, I didn’t catch anyone's ultimates here-"
+
+Ju "I got them all, Just not yours and the blue haired girl, But i'm pretty sure her name is Hari!"
+
+"Wait, if he knows all their Ultimates then maybe he can tell me some-"
+
+Ju "IDIOT! I won't tell you, private stuff ya know!"
+
+"Did he. . . just call me an Idiot?"
+
+Re "I dont think its private, it's just their Ultimates, don't you agree cyan?"
+
+"I turned around to see Cyan, But she wasn’t there, did she run off?"
+
+Ju "Mhm! She ran off alright! Also by the way, I wanna make a deal!"
+
+Re "A deal?"
+
+Ju "If you can tell me that Blue chicks Ultimate, I’ll give you some Cherries!"
+
+"Dang it! That's tempting! But I really want those cherries. . . Alright! Let's do this Reno!"
+
+Re "Alright, deal, but I expect the best cherries!"
+
+Ju "I wouldn’t ever give the bad cherries to a friend!"
+
+"That's good news, I should hurry and get Hari’s Talent. Oh, and I wonder if Justu will tell me more of the Ultimates, that would make the deal fairer."
+
+"I walked up to the strange girl with two blue pig tails- well, Pigtail buns. . . but still"
+
+"I need those cherries. "
+
+Re "Um, Hello, Your name is. . . Hari correct?"
+
+z "Y-Yeah i-i-i-it i-is . . ."
+
+"She's so scared, I wonder why. . . "
+
+Re "Well nice to meet you Hari! Im Reno Bulgur! Ultimate Actor!"
+
+Ha "n-nice t-to m-m-meet you t-too. . ."
+
+Re "Do you. . . mind telling me your Ultimate?"
+
+
+Ha "L-Like I told the other guy no . . ."
+
+Ju "Heyyyy!!! Pleaseeeeee!! This guy needs his cherries!"
+
+"This guy really likes following me. . ."
+
+Ha "N-No m-means no . . ."
+
+Re ". . . Justu can you. . . like. . . leave for a minute."
+
+Ju "Aww. . . fine."
+
+"Justu walked out of the Kitchen, I mean, I meant in the corner but that works too. . ."
+
+"So I should take this chance to talk to her."
+
+Re ". . . Are you scared?"
+
+Ha ". . ."
+
+Re ". . ."
+
+Re "I won't hurt you, you know, I don't judge either."
+
+Ha "Y-You won’t?"
+
+Re "Of course! Judging people. . . or hurting people is just a pain to do. . . and I hate when people do that, I just think we should be happy with what we got!"
+
+"I tried to cheer her up, she seems so. . . scared of everything, I could help her with that. . . when I get the energy."
+
+Ha "W-Well I might a-as well i-introduce mys-self properly t-then . . ."
+
+Ha "I’m Hari Yanio, Ultimate Planner"
+
+Re "Oh! So an architect! That's pretty cool!"
+
+Ha "T-Thanks . . ."
+
+Re "No problem! I told you I don't judge, I mainly just sleep 24/7. . ."
+
+Re "Anywho, why didn’t you want to tell Justu your ultimate?"
+
+Ha "He w-was a bit rude b-before . . ."
+
+"I should’ve expected that. . . He was rude to me too."
+
+Re "Eh? What did he say?"
+
+Ha "I’d rather n-not t-talk about i-it. . ."
+
+"That rude eh. . . I don't wanna think of what he said. . . not just because it's rude, but because it hurts my head to think sometimes."
+
+Re "Alright Hari, I should probably leave, Justu most likely is waiting for me, And if I remember, Isy is waiting outside too. . . I saw her leave. . ."
+
+Ha "d-dont leave me here w-with Raven and Kira! . . ."
+
+"Oh, right, the two edge lords are here, I should probably do something to help her. . ."
+
+Re "How about you follow me then?"
+
+Ha "s-sure . . . I-I just want to get a-away from t-the two . . ."
+
+Re "Right! Lets go! I can't stand them anyways. . . such edge lords. . ."
+
+"I left the kitchen with Hari following behind, To meet with Justu, Isy and some other girl."
+
+Ju "Well, Well? What's the blue chicks talent? What is it, What is it?"
+
+'Where does he get the energy. . ."
+
+Re "Umm, Ultimate planner she said."
+
+Ju ". . .huh, how interesting."
+
+"He suddenly sounded like a fully grown man! What the heck!?"
+
+Ju "Ultimate planner huh. . ."
+
+Ju "That could help me a lot with my work! Wowie!"
+
+"Now he was talking normal again, that does sound a lot better. . . I don't think him sounding like a grown man suits him.""
+
+Ha "W-Why would I h-help you a-after what y-you said!"
+
+Ju "Oh, when I called you a crybaby bitch? Oops! Didn’t mean to say that in the past! I was just thinking about someone I hate, Don't worry! It's not you!"
+
+"HE CALLED HER A WHAT?!""
+
+Ha "I-I’m s-still n-not helping y-you. . ."
+
+Ju "fair enough, Hypnosis is a one person job anyways"
+
+"Then why ask . . . that's just wasting breath. . .""
+
+Ju "Anywho, There's a new chick for you to meet Reno! Me and your chick already talked to her, so it's now your turn to talk to her!"
+
+"I'm just gonna ignore that statement, but there's a new girl I should meet, he says."
+
+"I looked at the girl who was next to the strange small boy."
+
+z "Good afternoon!"
+
+"How formal. . ."
+
+Re "Hello. . ."
+
+Fi "I shall introduce myself, I am  Fiona Laceray, the Ultimate influencer."
+
+"She's quick to the chase. . . I might as well follow."
+
+Re "Umm. . . Reno Bulgur, Ultimate Actor.
+
+"This feels. . . very awkward of how formal she is. . ."
+
+Is "How are you so formal?"
+
+Fi "Well, years of speaking like this, it was a part of me, so that would explain much."
+
+Is "I guess so?"
+
+Fi "By the way, May you please introduce yourself?"
+
+"She was looking at Hari, this. . . is gonna take a long time."
+
+Ha ". . . R-Reno can y-you do it f-for me . . ."
+
+Re "Um sure, Her name is Hari Yanio, She's the ultimate Planner, But formally known as the ultimate architect."
+
+Fi "What a wonderful Talent, Hari!"
+
+Ha "Thank you . . ."
+
+Fi "My pleasure."
+
+Fi "Oh and by the way, If you do not mind, please call me Fi instead of my real name."
+
+Fi "That's like me when I’m too lazy to put an O in my name."
+
+Is "But Fiona is already a short name"
+
+Re "Reno is a short name but I still have an Nickname."
+
+Is "So I’m the only one that doesn’t have a Nickname?"
+
+Re "I could call you Is, But then I'm just saying the word 'Is'"
+
+Ju "So are we just gonna tell our nicknames?"
+
+Ju "I'm called
+
+"The little piece of shit the most!"
+
+"That would make sense. . ."
+
+Re "You're proud?"
+
+Ju "Yup! Every single person who called me it has turned into my slave with my strong hypnosis powers!"
+
+Ha "I highly doubt that ‘hypnosis’ is even real. . ."
+
+Ju "Yeah, that's because the ways they do hypnosis in the movies is wrong.."
+
+Ju "The round circle thingy in the movies isn’t how hypnosis is used, Its with colours, pictured, and flashes."
+
+Ju "On each picture has a different effect, like how everyone has a favourite different colour! Fun fact, mine is hot pink!
+
+Ha "Any kind of pink is gross to me . . ."
+
+Ju "I don't like the colour itself, I like what it does to people."
+
+Ju "Most of the time, It makes people act like chickens! That why i call girls Chicks a lot!"
+
+Re "What do you mean most of the time. . . what happens when they dont act like chickens. . ."
+
+Ju "Oh, they kill themselves, why?"
+
+Is "WHAT THE HELL!?"
+
+Ju "What? They don't do it straight away, it takes a day."
+
+Ju "What happens is that they spend the day with their loved ones or doing something fun so they can remember that for when they are dead and die happily, That's why I like the colour!"
+
+"Now that sounds a bit nicer. . ."
+
+Re "That. .  . is a bit better then just Killing themselves"
+
+Ju "Oops! I forgot to say that first!"
+
+Ha ". . ."
+
+Is ". . ."
+
+Fi ". . . Just how do they kill themselves though."
+
+Ju " A strange big monster strangles them! I don't know the details though. . ."
+
+Ju "Anywho, Red makes people hungry, Blue makes them my slaves and green makes them into perverts!"
+
+"Thats. . . Kinda gross."
+
+Ha "ew"
+
+Fi "I do not believe we needed the. . . Extra information."
+
+Ju "Alright then! I'm glad I didn’t explain cyan then!"
+
+"Oh no. ..  I'm worried about what my favourite colour does. . ."
+
+Is "And please don’t explain it at all"
+
+Ju "K!"
+
+Ju "Well anywho, I should give the cherries and leave!"
+
+"Justu handed- Well, more like shoved the cherries into my hands and ran off laughing his head off."
+
+Ha "I-I don’t k-know if I-I-I s-should be scared o-of him o-or w-weirded out . . ."
+
+Re "Or even trust him. . ."
+
+
+"Maybe he's the one who made me not remember anything. . . it would make sense. ."
+
+"Maybe. . . he. . . did the gas I slightly remember of?"
+
+"I suddenly remembered what I saw, The strange girl figure with cat ears, I don't. . . remember  much, but I can still feel the fear I had."
+
+"I started to tremble out of nowhere, I feel like something is off here. . . I feel. . . strange. . ."
+
+Is "Reno! Are you ok?"
+
+"I snapped out of my thoughts and looked at Isy"
+
+Re "O-oh! Sorry. . . stuck in a thought, don’t worry about it."
+
+Fi "Are you certain?"
+
+Re ". . .y-yeah. . ."
+
+"Nobody remembers it. . . nobody cares about it. . . Is it because. . . I defended myself?"
+
+Is "Well . . . what now?"
+
+Re "well. . . How about we look around more. . . how many people have we seen so far?"
+
+Is "I lost tract"
+
+"I started to count how many people we’ve seen."
+
+"Kira. . . 1, Raven. . . 2, Justu. . .3, Hari. . . 4, Cyan. . . 5, Fiona. . . 6. . . Chiharo. . . 7, Carrots. . . 8."
+
+"So 8 people so far. . . that means there's 5 others here."
+
+Re "We’ve seen 8 people so far, so that means there's 5 other people."
+
+Is "Well . . . let’s go!"
+
+Fi "Alright, maybe we should split up so we can find them much faster?"
+
+Re "Good idea."
+
+Is "Who’s with who?"
+
+Fi "Since you seem to work well together, the groups should be me and Hari, then you and Reno."
+
+"Why does everyone pair us up together. . . we only just met. . . I mean, I guess I'm not compla-""
+
+Fi "Now, shall we go off?"
+
+Ha ". . ."
+
+Fi "Do not worry Hari, I will protect you with my life!"
+
+Ha "O-Ok . . ."
+
+"I'm glad Fiona said that, I don't have to worry about Hari, Now I can just focus on meeting new people and talking to Isy. . . and planning my next nap. . ."
+
+"I watched the two walk away, I have two questions I want to ask Isy now. . "
+
+Re "Ummm. . .Isy, I have two questions. . ."
+
+Is "Hmm?"
+
+Re "First, do you know dic-. . . forget that one."
+
+Re "Do you remember the Gas Attack?"
+
+Is ". . . Not entirely but sorta"
+
+Re ". . . When did you faint."
+
+Is "Not too sure . . ."
+
+Re ". . . Do you remember a female figure with cat ears in the gas."
+
+Is "I remember the cat ears not the female part though . . ."
+
+Re "Oh so you do too, maybe then you’d know the first question."
+
+Re "Do you know about D.I.C.E?"
+
+Is "No. . . should I know?"
+
+Re ". . . No, forget it then."
+
+Re "Just seeing if you know. . . what might happen."
+
+Re ". . ."
+
+"I started imagining it, what happened to him . . . all the blood-"
+
+"Oh, Maybe I shouldn’t be thinking about that. .  . I don't want to cry in public again do I?"
+
+"Even if I thought that, I started to cry, I couldn’t help myself, But I kept trying to keep a smile."
+
+Is "R-Reno you ok!?"
+
+Re "U-um yeah. . . im fine. . . "
+
+"I wiped my tears and continued to smile."
+
+Re "It’s silly of me to cry, Lets just continue walking."
+
+Is "Yeah"
+
+"We continued to walk until we came across a room with the door open."
+
+Re "Huh? The door is open, maybe someone is in there!"
+
+"I walked into the room to see a girl. . . coding an ipad in front of some strange dressed person"
+
+Is ". . ."
+
+Re "Umm. . .hello?"
+
+z "Oh Tatum, l-look, People are h-here!"
+
+Ta "wait… a sec"
+
+Ta "ok you should be fine now D1T-T0"
+
+Di "Is this a joke to that famous show I've heard about?"
+
+"At Least I know their names now."
+
+Re "Umm. . . well, Hello. . ."
+
+Di "Hello! I-im D1T-T0! Though I r-r-rather be called Ditto without the numbers, And I'm the U-Ultimate Scientist, But a-also the Ultimate Program!"
+
+Ta "I found him on the floor in the middle of the hallway and when I checked to see if he had a pulse I found out he was a malfunctioning program and a big chunk of his memory was corrupted”
+
+Ta "so I used this my ipad to enter his hard drive and broke into his system using a program I developed to brute force……"
+
+"I . . . Have NO Idea what she is saying, but all I know is that his memory was corrupted, maybe that has something to do with the gas."
+
+Re "Ummm, so your the Ultimate Programmer or something-"
+
+Ta "and it turns out he was forced to shut down and a piece of malware was injected into his system…”
+
+"Did she just ignore me?"
+
+Di "Ummm. . . Tatum, He asked you a question."
+
+Ta "what?""
+
+Re ". . . Can you. . . introduce yourself please? I think you forgot that."
+
+Ta "oh, hello I'm Tatum the ultimate developer”
+
+Re ". . . Reno Bulgur, Ultimate actor."
+
+Di "Oh! Oh! I know you! If I remember you- OW!"
+
+"Ditto quickly held his head, he seemed to be in some kind of pain, maybe it had something to do with the corrupt file?"
+
+Ta "I told you try not to delve memories until tomorrow I haven't fully repaired your indexing system and you still have some holes in your memories ”
+
+Is ". . ."
+
+Di "R-right sorry. . ."
+
+". . . this. . . is going to take some time to get used to."
+
+"But at least I’ve got information. Maybe Ditto wasn’t affected by the gas, and saw the figure I saw."
+
+Re "Hey Ditto, if you can remember, Do you remember the gas?"
+
+Di ". . . Gas? What gas? I don't remember any gas."
+
+Re ". . . Oh alright."
+
+"That. . . didn’t help."
+
+Is ". . ."
+
+Re "Well, We should head off, right Isy?"
+
+"Is just nodded to me, I quickly nodded back and walked out of the room.""
+
+Re ". . ."
+
+Re "Should we continue our search?"
+
+"She just nodded again, is something wrong?"
+
+Re ". . . Is something wrong?"
+
+Is "No I just don’t feel like talking a lot now . . ."
+
+"I know im lazy with my excuses, but that's just SUPER LAZY"
+
+Re "whatever you say. . ."
+
+"We continued to walk, it. . . was very awkward not talking. . ."
+
+"But, at the end of that, we found a room with another door open, maybe there's more people there!"
+
+"I walked into the room, hoping not to find anymore broken Programs or devs. . ."
+
+z "Look! There's a new person!"
+
+z ". . . u-u-umm. . . well then. . . w-w-we should introduce ourselves r-r-right??"
+
+I "I guess . . ."
+
+Mi ". . . I-i am M-m-misuki Galaxy, T-the Ultimate Spell caster. . ."
+
+Ry "And Im Ryu Ganile! The Ultimate Constructor! Nice to meet ya!"
+
+Re "Oh, Nice to meet you two, I'm Reno Bulgur, The Ultimate actor."
+
+Re "And this is Isy, The Ultimate Dj!"
+
+Ry "A Dj? I could make a portable DJ stand if she wants. . . Only if I had the materials. . ."
+
+Re "I know what you mean, It sucks not able to do the things you want to do."
+
+Re "Oh, By the way, can you really do spells Misuki?"
+
+Mi "O-o-only when I-Im focused. . ."
+
+"That kinda sucks. . . I’ve always wanted to see magic, like from the magic movie I know where they do floating spells! I wanna be in red team. . ."
+
+"Anyways. . . we better go meet back up with Fiona and Hari, They might have found the other person"
+
+Re "Hey, Isy, should we leave and meet back up with Hari and Fiona at the dining hall?"
+
+"She just nodded again, Something IS wrong.""
+
+Re "Right. . . Well, See you later!"
+
+"We walked off to the dining hall in the Kitchen that I saw before, I’ve noticed that Raven and Kira weren't there anymore."
+
+"And as I noticed that, Hari and Fiona came in."
+
+Fi "Oh, You have bet us to it."
+
+Re "Uhh, seems like it."
+
+"I looked at Hari, And then see-""
+
+"She's been hurt!""
+
+Re "Oh my goodness are you okay?!"
+
+Ha "I-I’m o-okay . . . just a few from what I normally get . . ."
+
+Re ". . ."
+
+"Just like. .. how I was, I used to get bullied for liking drama so much even if im a boy, its like that all boys need to love sports or whatever. So I guess I can feel her, I used to say that too."
+
+Re "Do you need help with those cuts though?"
+
+Ha "Y-Yes please . . ."
+
+"I went to the Kitchen and grabbed a first aid-kit and went back to Hari."
+
+"I started to tend the wounds she had gained, I bet the edge lords did this."
+
+Re "That better?"
